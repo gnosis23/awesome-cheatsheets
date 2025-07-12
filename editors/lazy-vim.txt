@@ -1,0 +1,51 @@
+##############################################################################
+# Lazy VIM CHEATSHEET (中文速查表)  -  by bhwang
+# Version: 1, Last Modified: 2025/07/12 21:00
+#
+##############################################################################
+
+
+##############################################################################
+# Global
+##############################################################################
+
+<leader>            <space>，一些组合键的触发键
+
+
+##############################################################################
+# General
+##############################################################################
+
+c-h                 Go to left window
+c-j                 Go to lower window
+c-k                 Go to upper window
+c-l                 Go to right window
+c-s                 Save file
+c-/                 Terminal (Root Dir)
+c-o                 Goto older cursor position in jump list                 
+c-i                 Goto newer cursor position in jump list                 
+c-t
+<leader>-           Split window below
+<leader>|           Split window right
+<leader>wd          Delete window
+
+
+##############################################################################
+# LSP
+##############################################################################
+
+gd                  Goto definition
+gK                  Signature Help
+<leader>cr          Rename
+
+
+##############################################################################
+# Buffer
+##############################################################################
+
+<leader>bl          Delete Buffers to the Left
+<leader>br          Delete Buffers to the Right
+<S-h>               Prev Buffer
+<S-l>               Next Buffer
+
+
